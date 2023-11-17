@@ -1,0 +1,15 @@
+{
+  "name": "bot-node-example-main",
+  "version": "1.0.0",
+  "description": "whatsapp bot para taller de programacion web. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jineth dayana pacheco fandiño",
+  "license": "ISC",
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.23.0"
+  }
+}
